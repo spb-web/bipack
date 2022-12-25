@@ -1,0 +1,12 @@
+[
+  {
+    "path": "dist/index.js",
+    "import": "{ Bipack }",
+    "limit": "4 kb"
+  },
+  {
+    "path": "dist/index.mjs",
+    "import": "{ Bipack }",
+    "limit": "4 kb"
+  }
+]
